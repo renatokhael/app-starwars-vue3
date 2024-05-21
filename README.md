@@ -6,9 +6,9 @@
 ![Pinia](https://img.shields.io/badge/pinia-2.1.7-yellow)
 ![Vite](https://img.shields.io/badge/vite-5.2.0-green)
 
-Essa aplicação mostra todos os filmes da franquia Star Wars, ela faz integração com a [SWAPI](https://swapi.dev/) API.
+Essa aplicação é um projeto pessoal construido para praticar desenvolvimento com Vue 3, usando os recursos mais modernos e complexos do framework. Aos poucos vou adicionando mais recursos...
 
-<center><img src="./.images/print.png" width="768px" /></center>
+<center><img src="./images/print.png" width="768px" /></center>
 
 ## Table of Contents
 
@@ -21,15 +21,22 @@ Essa aplicação mostra todos os filmes da franquia Star Wars, ela faz integraç
 
 ## Demo
 
-Check out the live demo: [Star Wars Movies Explorer](https://your-demo-link.com)
+Visualize a demo dessa aplicação na: [Vercel](https://your-demo-link.com)
 
 ## Funcionalidades
 
-- Liste todos os filmes de Star Wars
-- Pesquise filmes por nome
-- Design responsivo com Tailwind CSS
-- Gerenciamento de estado com Pinia
-- Build rápido com Vite
+
+- [x] Integração com [SWAPI](https://swapi.dev/) API;
+- [x] Liste todos os filmes de Star Wars;
+- [x] Pesquise filmes por nome;
+- [ ] Liste todos os personagens de Star Wars;
+- [ ] Pesquise personagens por nome;
+- [ ] Liste todos os planetas de Star Wars;
+- [ ] Pesquise planeta por nome;
+- [ ] Gerenciamento de estado com Pinia;
+- [ ] Retornos da API devem renderizarem pt-BR;
+
+
 
 ## Instalação
 
@@ -86,6 +93,8 @@ npm run serve
 └── tailwind.config.html
 └── postcss.config.html
 ```
+
+
 
 ## Contribuição
 
