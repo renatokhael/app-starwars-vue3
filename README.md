@@ -8,6 +8,8 @@
 
 Essa aplicação mostra todos os filmes da franquia Star Wars, ela faz integração com a [SWAPI](https://swapi.dev/) API.
 
+<center><img src="./.images/print.png" width="768px" /></center>
+
 ## Table of Contents
 
 - [Demo](#demo)
