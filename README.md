@@ -68,7 +68,7 @@ npm run build
 
 Pré-visualização do build de produção:
 ```bash
-npm run serve
+npm run preview
 ```
 
 ## Estrutura do projeto
