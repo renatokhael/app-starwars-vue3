@@ -13,8 +13,8 @@ Essa aplicação mostra todos os filmes da franquia Star Wars, ela faz integraç
 - [Demo](#demo)
 - [Funcionalidades](#funcionalidades)
 - [Instalação](#instalação)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Uso](#uso)
+- [Contribuição](#contribuição)
 - [License](#license)
 
 ## Demo
@@ -31,8 +31,76 @@ Check out the live demo: [Star Wars Movies Explorer](https://your-demo-link.com)
 
 ## Instalação
 
-Clone the repository:
+Clone o repositório
 
 ```bash
-git clone https://github.com/your-username/star-wars-movies-explorer.git
-cd star-wars-movies-explorer
+git clone git@github.com:renatokhael/app-starwars-vue3.git
+```
+Entre no diretório
+```
+cd app-starwars-vue3
+```
+Instale as dependências
+```
+npm i
+```
+
+## Uso
+
+Rode como desenvolvedor:
+```bash
+npm run dev
+```
+
+Build para produção:
+```bash
+npm run build
+```
+
+Pré-visualização do build de produção:
+```bash
+npm run serve
+```
+
+## Estrutura do projeto
+
+```
+├── public
+│   ├── favicon.ico 
+├── src
+│   ├── assets
+│   ├── components
+│   ├── pages
+│   ├── router
+│   │   └── index.js
+│   ├── store
+│   │   └── index.js
+│   ├── App.vue
+│   ├── main.js
+│   └── tailwind.css
+├── package.json
+└── index.html
+└── vite.config.js
+└── tailwind.config.html
+└── postcss.config.html
+```
+
+## Contribuição
+
+Contribuições são bem-vindas! Siga estas etapas para contribuir:
+
+- Bifurque o projeto.
+- Crie sua branch de recursos: ```git checkout -b feature/my-new-feature```.
+- Confirme suas alterações: ```git commit -am 'Adicionar algum recurso```'.
+- Envie para o branch: ```git push origin feature/my-new-feature```.
+- Envie uma solicitação pull.
+
+## License
+Esse é um projeto pessoal, e pode ser utilizado, copiado sem aviso prévio.
+
+Made with 💚 by [Renato Khael](https://renatokhael.dev)
+
+
+
+
+
