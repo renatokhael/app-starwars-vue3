@@ -21,7 +21,7 @@ Essa aplicação é um projeto pessoal construido para praticar desenvolvimento 
 
 ## Demo
 
-Visualize a demo dessa aplicação na: [Vercel](https://your-demo-link.com)
+Visualize a demo dessa aplicação na: [Vercel](https://app-starwars-vue3.vercel.app/)
 
 ## Funcionalidades
 
