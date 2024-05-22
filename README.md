@@ -1,4 +1,4 @@
-# Star Wars Movies Explorer
+# Star Wars - Vue 3 + TailwindCSS
 
 ![Vue 3](https://img.shields.io/badge/vue-3.4.21-brightgreen)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.4.3-blue)
